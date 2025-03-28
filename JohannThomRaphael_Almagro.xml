@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
     <student>
-        <picture>images/student1.jpg</picture>
+        <picture>https://yt3.googleusercontent.com/JjR9Kh_gEIuiv_cbflWQHucNPCdHh7n3dWzCZSJHuu1YZkGAkuybVIe5c7CLcBnUOo5af1sGPeg=s160-c-k-c0x00ffffff-no-rj</picture>
+        <name>Juan Dela Cruz</name>
+        <course>BSIT</course>
+        <year>3bg2</year>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+      <student>
+        <picture>https://yt3.googleusercontent.com/JjR9Kh_gEIuiv_cbflWQHucNPCdHh7n3dWzCZSJHuu1YZkGAkuybVIe5c7CLcBnUOo5af1sGPeg=s160-c-k-c0x00ffffff-no-rj</picture>
         <name>Juan Dela Cruz</name>
         <course>BSIT</course>
         <year>3bg2</year>
@@ -9,51 +17,57 @@
         <school_year>2025-2026</school_year>
     </student>
     <student>
-        <picture>images/student2.jpg</picture>
-        <name>Maria Santos</name>
-        <course>BSCS</course>
-        <year>3CS1</year>
-        <adviser>Ms. Angela Reyes</adviser>
-        <school_year>2025-2026</school_year>
-    </student>
-    <student>
-        <picture>images/student3.jpg</picture>
-        <name>Pedro Mendoza</name>
+        <picture>https://yt3.googleusercontent.com/JjR9Kh_gEIuiv_cbflWQHucNPCdHh7n3dWzCZSJHuu1YZkGAkuybVIe5c7CLcBnUOo5af1sGPeg=s160-c-k-c0x00ffffff-no-rj</picture>
+        <name>Juan Dela Cruz</name>
         <course>BSIT</course>
-        <year>3bg3</year>
-        <adviser>Mr. Carl Lim</adviser>
+        <year>3bg2</year>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
         <school_year>2025-2026</school_year>
-    </student>
-	 <student>
-        <picture>images/student2.jpg</picture>
-        <name>Maria Santos</name>
-        <course>BSCS</course>
-        <year>3CS1</year>
-        <adviser>Ms. Angela Reyes</adviser>
+    <student>
+        <picture>https://yt3.googleusercontent.com/JjR9Kh_gEIuiv_cbflWQHucNPCdHh7n3dWzCZSJHuu1YZkGAkuybVIe5c7CLcBnUOo5af1sGPeg=s160-c-k-c0x00ffffff-no-rj</picture>
+        <name>Juan Dela Cruz</name>
+        <course>BSIT</course>
+        <year>3bg2</year>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
         <school_year>2025-2026</school_year>
     </student>
     <student>
-        <picture>images/student2.jpg</picture>
-        <name>Maria Santos</name>
-        <course>BSCS</course>
-        <year>3CS1</year>
-        <adviser>Ms. Angela Reyes</adviser>
+        <picture>https://yt3.googleusercontent.com/JjR9Kh_gEIuiv_cbflWQHucNPCdHh7n3dWzCZSJHuu1YZkGAkuybVIe5c7CLcBnUOo5af1sGPeg=s160-c-k-c0x00ffffff-no-rj</picture>
+        <name>Juan Dela Cruz</name>
+        <course>BSIT</course>
+        <year>3bg2</year>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    <student>
+        <picture>https://yt3.googleusercontent.com/JjR9Kh_gEIuiv_cbflWQHucNPCdHh7n3dWzCZSJHuu1YZkGAkuybVIe5c7CLcBnUOo5af1sGPeg=s160-c-k-c0x00ffffff-no-rj</picture>
+        <name>Juan Dela Cruz</name>
+        <course>BSIT</course>
+        <year>3bg2</year>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
         <school_year>2025-2026</school_year>
     </student>
     <student>
-        <picture>images/student2.jpg</picture>
-        <name>Maria Santos</name>
-        <course>BSCS</course>
-        <year>3CS1</year>
-        <adviser>Ms. Angela Reyes</adviser>
+        <picture>https://yt3.googleusercontent.com/JjR9Kh_gEIuiv_cbflWQHucNPCdHh7n3dWzCZSJHuu1YZkGAkuybVIe5c7CLcBnUOo5af1sGPeg=s160-c-k-c0x00ffffff-no-rj</picture>
+        <name>Juan Dela Cruz</name>
+        <course>BSIT</course>
+        <year>3bg2</year>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
         <school_year>2025-2026</school_year>
     </student>
     <student>
-        <picture>images/student2.jpg</picture>
-        <name>Maria Santos</name>
-        <course>BSCS</course>
-        <year>3CS1</year>
-        <adviser>Ms. Angela Reyes</adviser>
+        <picture>https://yt3.googleusercontent.com/JjR9Kh_gEIuiv_cbflWQHucNPCdHh7n3dWzCZSJHuu1YZkGAkuybVIe5c7CLcBnUOo5af1sGPeg=s160-c-k-c0x00ffffff-no-rj</picture>
+        <name>Juan Dela Cruz</name>
+        <course>BSIT</course>
+        <year>3bg2</year>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://yt3.googleusercontent.com/JjR9Kh_gEIuiv_cbflWQHucNPCdHh7n3dWzCZSJHuu1YZkGAkuybVIe5c7CLcBnUOo5af1sGPeg=s160-c-k-c0x00ffffff-no-rj</picture>
+        <name>Juan Dela Cruz</name>
+        <course>BSIT</course>
+        <year>3bg2</year>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
         <school_year>2025-2026</school_year>
     </student>
 </students>
