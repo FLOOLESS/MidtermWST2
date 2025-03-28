@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <picture>images/student1.jpg</picture>
+        <name>Juan Dela Cruz</name>
+        <course>BSIT</course>
+        <year>3bg2</year>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>images/student2.jpg</picture>
+        <name>Maria Santos</name>
+        <course>BSCS</course>
+        <year>3CS1</year>
+        <adviser>Ms. Angela Reyes</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>images/student3.jpg</picture>
+        <name>Pedro Mendoza</name>
+        <course>BSIT</course>
+        <year>3bg3</year>
+        <adviser>Mr. Carl Lim</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+	 <student>
+        <picture>images/student2.jpg</picture>
+        <name>Maria Santos</name>
+        <course>BSCS</course>
+        <year>3CS1</year>
+        <adviser>Ms. Angela Reyes</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>images/student2.jpg</picture>
+        <name>Maria Santos</name>
+        <course>BSCS</course>
+        <year>3CS1</year>
+        <adviser>Ms. Angela Reyes</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>images/student2.jpg</picture>
+        <name>Maria Santos</name>
+        <course>BSCS</course>
+        <year>3CS1</year>
+        <adviser>Ms. Angela Reyes</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>images/student2.jpg</picture>
+        <name>Maria Santos</name>
+        <course>BSCS</course>
+        <year>3CS1</year>
+        <adviser>Ms. Angela Reyes</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+</students>

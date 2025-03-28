@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library Users</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>ABC Colleges</h1>
+    <h2>Library Users</h2>
+    <div id="student-container"></div>
+
+    <script>
+        function loadXML() {
+            let xhr = new XMLHttpRequest();
+            xhr.open("GET", "JohannThomRaphael_Almagro.xml", true);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    displayStudents(xhr.responseXML);
+                }
+            };
+            xhr.send();
+        }
+
+        function displayStudents(xml) {
+            let students = xml.getElementsByTagName("student");
+            let output = "<div class='grid-container'>";
+            for (let i = 0; i < students.length; i++) {
+                let picture = students[i].getElementsByTagName("picture")[0].childNodes[0].nodeValue;
+                let name = students[i].getElementsByTagName("name")[0].childNodes[0].nodeValue;
+                let course = students[i].getElementsByTagName("course")[0].childNodes[0].nodeValue;
+                let year = students[i].getElementsByTagName("year")[0].childNodes[0].nodeValue;
+                let adviser = students[i].getElementsByTagName("adviser")[0].childNodes[0].nodeValue;
+                let schoolYear = students[i].getElementsByTagName("school_year")[0].childNodes[0].nodeValue;
+
+                output += `
+                    <div class="card">
+                        <div class="info">
+                            <p><strong>Name:</strong> ${name}</p>
+                            <p><strong>Course:</strong> ${course}</p>
+                            <p><strong>Year Level / Section:</strong> ${year}</p>
+                            <p><strong>Adviser:</strong> ${adviser}</p>
+                            <p><strong>School Year:</strong> ${schoolYear}</p>
+                        </div>
+                        <div class="image">
+                            <img src="${picture}" alt="Student Photo">
+                        </div>
+                    </div>
+                `;
+            }
+            output += "</div>";
+            document.getElementById("student-container").innerHTML = output;
+        }
+
+        window.onload = loadXML;
+    </script>
+</body>
+</html>
